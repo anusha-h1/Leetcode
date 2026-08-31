@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anusha-h1/Leetcode/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anusha-h1/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
